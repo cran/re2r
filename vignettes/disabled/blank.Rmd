@@ -1,0 +1,1 @@
+Benchmarks are disabled by default for CRAN. See https://qinwenfeng.com/re2r_doc for the result.
